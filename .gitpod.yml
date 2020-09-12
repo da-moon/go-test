@@ -1,8 +1,8 @@
 image:
   file: .gitpod.Dockerfile
 
-checkoutLocation: "go/src/github.com/da-moon/go-logger"
-workspaceLocation: "go/src/github.com/da-moon/go-logger"
+checkoutLocation: "go/src/github.com/da-moon/go-test"
+workspaceLocation: "go/src/github.com/da-moon/go-test"
 tasks:
   - init: >
       go env -w GOPRIVATE=github.com/da-moon &&
