@@ -9,4 +9,4 @@
   <img src="https://img.shields.io/github/last-commit/da-moon/go-test/master" alt="GitHub last commit">
 </p>
 
-collection of utility functions to help with testing go packages
+collection of utility functions to help with testing go packages. this package is experimental. use at your own risk,
